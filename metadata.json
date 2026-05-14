@@ -1,0 +1,6 @@
+{
+  "name": "Cipher RSA Studio",
+  "description": "An interactive playground for exploring RSA encryption, digital signatures, and key management concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
